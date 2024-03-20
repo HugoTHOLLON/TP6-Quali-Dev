@@ -15,4 +15,4 @@ Enseignant: PENINOU Andre \
 Enseignant: PRADEL Ludo \
 Enseignant: RENAUD-GOUD Paul \
 Enseignant: SOTIN Pascal \
-Enseignant: SOULIE Maël \
+Enseignant: SOULIE Maël
