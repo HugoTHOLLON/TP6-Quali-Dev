@@ -1,0 +1,2 @@
+# Présentation de Mete
+Je m'appelle Mete et j'ai 18 ans. J'ai eu un grand intérêt et une passion pour l'informatique depuis que j'étais tout petit et j'ai commencé à étudier à l'IUT de Blagnac pour réaliser mon rêve de devenir ingénieur logiciel.
